@@ -1,0 +1,6 @@
+STOCK PORTFOLIO REPORT
+----------------------
+AAPL | Quantity: 2 | Investment: 360
+TSLA | Quantity: 3 | Investment: 750
+
+Total Investment: 1110
